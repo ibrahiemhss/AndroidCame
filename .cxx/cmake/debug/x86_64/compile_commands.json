@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/x86_64",
+  "command": "/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_jpegutil_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_jpegutil.dir/jni/jpegutil/jpegutil.cpp.o -c /Volumes/MAC2/work/androidNative/Camera2-master/jni/jpegutil/jpegutil.cpp",
+  "file": "/Volumes/MAC2/work/androidNative/Camera2-master/jni/jpegutil/jpegutil.cpp"
+},
+
+{
+  "directory": "/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/x86_64",
+  "command": "/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_jpegutil_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_jpegutil.dir/jni/jpegutil/jpegutilnative.cpp.o -c /Volumes/MAC2/work/androidNative/Camera2-master/jni/jpegutil/jpegutilnative.cpp",
+  "file": "/Volumes/MAC2/work/androidNative/Camera2-master/jni/jpegutil/jpegutilnative.cpp"
+},
+
+{
+  "directory": "/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/x86_64",
+  "command": "/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djni_tinyplanet_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jni_tinyplanet.dir/jni/tinyplanet/tinyplanet.cc.o -c /Volumes/MAC2/work/androidNative/Camera2-master/jni/tinyplanet/tinyplanet.cc",
+  "file": "/Volumes/MAC2/work/androidNative/Camera2-master/jni/tinyplanet/tinyplanet.cc"
+}
+]

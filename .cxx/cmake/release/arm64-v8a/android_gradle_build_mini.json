@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "/Volumes/MAC2/work/androidNative/Camera2-master/CMakeLists.txt",
+    "/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Volumes/MAC2/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/Volumes/MAC2/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "jni_tinyplanet-Release-arm64-v8a": {
+      "artifactName": "jni_tinyplanet",
+      "buildCommand": "/Volumes/MAC2/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/release/arm64-v8a\" jni_tinyplanet",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/MAC2/work/androidNative/Camera2-master/build/intermediates/cmake/release/obj/arm64-v8a/libjni_tinyplanet.so",
+      "runtimeFiles": []
+    },
+    "jni_jpegutil-Release-arm64-v8a": {
+      "artifactName": "jni_jpegutil",
+      "buildCommand": "/Volumes/MAC2/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/release/arm64-v8a\" jni_jpegutil",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/MAC2/work/androidNative/Camera2-master/build/intermediates/cmake/release/obj/arm64-v8a/libjni_jpegutil.so",
+      "runtimeFiles": [
+        "/Volumes/MAC2/work/androidNative/Camera2-master/jni/libs/arm64-v8a/libjpeg.so"
+      ]
+    }
+  }
+}

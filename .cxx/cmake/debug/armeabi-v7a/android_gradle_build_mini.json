@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "/Volumes/MAC2/work/androidNative/Camera2-master/CMakeLists.txt",
+    "/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Volumes/MAC2/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Volumes/MAC2/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Volumes/MAC2/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "jni_tinyplanet-Debug-armeabi-v7a": {
+      "artifactName": "jni_tinyplanet",
+      "buildCommand": "/Volumes/MAC2/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/armeabi-v7a\" jni_tinyplanet",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/MAC2/work/androidNative/Camera2-master/build/intermediates/cmake/debug/obj/armeabi-v7a/libjni_tinyplanet.so",
+      "runtimeFiles": []
+    },
+    "jni_jpegutil-Debug-armeabi-v7a": {
+      "artifactName": "jni_jpegutil",
+      "buildCommand": "/Volumes/MAC2/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/armeabi-v7a\" jni_jpegutil",
+      "abi": "armeabi-v7a",
+      "output": "/Volumes/MAC2/work/androidNative/Camera2-master/build/intermediates/cmake/debug/obj/armeabi-v7a/libjni_jpegutil.so",
+      "runtimeFiles": [
+        "/Volumes/MAC2/work/androidNative/Camera2-master/jni/libs/armeabi-v7a/libjpeg.so"
+      ]
+    }
+  }
+}

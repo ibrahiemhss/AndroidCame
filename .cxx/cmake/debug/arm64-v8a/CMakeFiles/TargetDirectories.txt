@@ -1,0 +1,4 @@
+/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/arm64-v8a/CMakeFiles/jni_jpegutil.dir
+/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/arm64-v8a/CMakeFiles/jni_tinyplanet.dir

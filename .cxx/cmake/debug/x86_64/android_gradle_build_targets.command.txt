@@ -1,0 +1,8 @@
+Executable : /Volumes/MAC2/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Volumes/MAC2/work/androidNative/Camera2-master/.cxx/cmake/debug/x86_64
+jni_jpegutil
+jni_tinyplanet
+jvmArgs : 
+
